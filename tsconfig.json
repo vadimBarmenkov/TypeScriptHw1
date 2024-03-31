@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+      "module": "system",
+      "outFile": "./src/app.js",
+      "rootDir": "./src",
+      "strict": true,
+      "strictNullChecks": false
+  },
+}
+
+
